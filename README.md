@@ -83,7 +83,7 @@ Si la ventana de la **'Shell'** no aparece de manera automática, podés abrirla
 ![](https://github.com/sbuffose/prepwork-talento-digital/raw/master/images/repl3.png)
 
 
-#### MÁS CONTENIDO - NO HACE FALTA COMPLETAR PARA LA ENTREVISTA
+#### CLASES - WORKSHOPS
   1. Introducción al Front End (HTML, CSS y JavaScript)
       - Clase 1 - 30 minutos: http://www.youtube.com/watch?v=wzrXC-aq9gk&t=13m0s
       - Clase 2 - 40 minutos: https://www.youtube.com/watch?v=cuPtZoqH-MA&t=87s
