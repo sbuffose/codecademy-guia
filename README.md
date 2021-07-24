@@ -63,7 +63,7 @@ A continuación tendrás 10 sesiones basadas en el curso de Ruby de [Codecademy]
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=yA1uKsbJiGI)
 
 
-En esta carpeta están disponibles las presentaciones del curso OPCIONAL de preparación: [`CLICK AQUÍ PARA VER CARPETA`](https://github.com/sbuffose/codecademy/tree/master/slides)
+En esta carpeta están disponibles las presentaciones del curso OPCIONAL de preparación: [`CLICK AQUÍ PARA VER CARPETA`](https://github.com/sbuffose/codecademy-guia/tree/master/slides)
 
 #### AVANZADOS - Utilizar `REPL` para ejercitar:
 
