@@ -63,7 +63,7 @@ A continuación tendrás 10 sesiones basadas en el curso de Ruby de [Codecademy]
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=yA1uKsbJiGI)
 
 
-#### CLASES - WORKSHOPS
+## MÁS INFORMACIÓN:  CLASES - WORKSHOPS
   1. Introducción al Front End (HTML, CSS y JavaScript)
       - Clase 1 - 30 minutos: http://www.youtube.com/watch?v=wzrXC-aq9gk&t=13m0s
       - Clase 2 - 40 minutos: https://www.youtube.com/watch?v=cuPtZoqH-MA&t=87s
