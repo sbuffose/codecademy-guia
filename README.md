@@ -63,26 +63,6 @@ A continuación tendrás 10 sesiones basadas en el curso de Ruby de [Codecademy]
     - Clase grabada - [Hacer click aquí para ver Video](https://www.youtube.com/watch?v=yA1uKsbJiGI)
 
 
-En esta carpeta están disponibles las presentaciones del curso OPCIONAL de preparación: [`CLICK AQUÍ PARA VER CARPETA`](https://github.com/sbuffose/codecademy-guia/tree/master/slides)
-
-#### AVANZADOS - Utilizar `REPL` para ejercitar:
-
-Podrás utilizar un [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) para ver e interactuar con el código que compartimos en cada clase grabada.
-
-Primero tenés que [crear una cuenta en Repl.it](https://repl.it/signup). Una vez que haya iniciado sesión, regresa acá y hace click en este botón 👉 [![ejecutar en Repl.it](https://repl.it/badge/github/lewagonlisbon/programming4everyone)](https://replit.com/@sbuffosempe/prepwork-talento-digital) para abrir este `repositorio`, y luego hacer click en [**'fork'**]() para guardar una copia en su colección personal de REPLs.
-
-![](https://github.com/sbuffose/prepwork-talento-digital/raw/master/images/repl1.png)
-
-
-Podes utilizar la consola de Ruby de la derecha para ejecutar pruebas rápidas.
-
-Si la ventana de la **'Shell'** no aparece de manera automática, podés abrirla usando el atajo ⌘⇧S (ver foto a continuación) o en windows CRTL + SHIFT + S.
-
-![](https://github.com/sbuffose/prepwork-talento-digital/raw/master/images/repl2.png)
-
-![](https://github.com/sbuffose/prepwork-talento-digital/raw/master/images/repl3.png)
-
-
 #### CLASES - WORKSHOPS
   1. Introducción al Front End (HTML, CSS y JavaScript)
       - Clase 1 - 30 minutos: http://www.youtube.com/watch?v=wzrXC-aq9gk&t=13m0s
